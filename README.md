@@ -1,4 +1,4 @@
-# Early Warning of Food Price Spikes in Sri Lankan Markets — Explainable Boosting Machine
+# Early Warning of Food Price Spikes in Sri Lankan Markets - Explainable Boosting Machine
 
 **MSc in AI · Machine Learning Assignment** · Prasadini A P N (269170A)
 
