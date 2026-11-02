@@ -37,7 +37,6 @@ models/spike_model.pkl                            final EBM + feature list + thr
 models/model_meta.json, models/model_comparison.csv
 app/app.py                                        Streamlit front end
 figures/                                          all charts
-video/                                            demo video (clean + subtitled), narration script & subtitles
 ```
 
 ## How to run
